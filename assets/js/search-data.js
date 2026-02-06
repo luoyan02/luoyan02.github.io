@@ -391,15 +391,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-joined-prof-cara-nunez-s-group-at-cornell-as-a-phd-student-fire",
+          title: 'I joined Prof. Cara Nunez’s group at Cornell as a PhD student! :fire:...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-passed-my-q-exams-in-circuits-and-devices-and-linear-systems-tada",
+          title: 'I passed my Q exams in “Circuits and Devices” and “Linear Systems” :tada:...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-curvature-aware-calibration-of-tactile-sensors-for-accurate-force-estimation-on-non-planar-surfaces-got-accepted-by-ieee-haptics-symposium",
+          section: "News",},{id: "news-our-paper-curvature-aware-calibration-of-tactile-sensors-for-accurate-force-estimation-on-non-planar-surfaces-got-accepted-by-ieee-haptics-symposium-rocket-rocket-rocket",
           title: 'Our paper Curvature-Aware Calibration of Tactile Sensors for Accurate Force Estimation on Non-Planar...',
           description: "",
           section: "News",},{id: "projects-project-1",
