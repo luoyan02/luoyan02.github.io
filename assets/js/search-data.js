@@ -399,8 +399,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-curvature-aware-calibration-of-tactile-sensors-for-accurate-force-estimation-on-non-planar-surfaces-got-accepted-by-ieee-haptics-symposium",
+          title: 'Our paper Curvature-Aware Calibration of Tactile Sensors for Accurate Force Estimation on Non-Planar...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
