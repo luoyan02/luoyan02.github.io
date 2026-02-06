@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-01-28
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper **Curvature-Aware Calibration of Tactile Sensors for Accurate Force Estimation on Non-Planar Surfaces** got accepted by [IEEE Haptics Symposium](https://2026.hapticssymposium.org/)!
