@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-30'
 papers:
   XRXzP1oAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -10,6 +10,6 @@ papers:
     title: 'Rabbit: A robot-assisted bed bathing system with multimodal perception and integrated compliance'
     year: '2024'
   XRXzP1oAAAAJ:u-x6o8ySG0sC:
-    citations: 16
+    citations: 17
     title: 'Cushsense: Soft, stretchable, and comfortable tactile-sensing skin for physical human-robot interaction'
     year: '2024'
